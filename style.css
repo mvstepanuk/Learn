@@ -1,5 +1,6 @@
 .wrap {
   background: white;
+  color: red;
   border: 1px solid red;
   width: 30%;
   height: 100px;
@@ -7,4 +8,5 @@
 }
 .wrap:hover {
   background: red;
+  color: white;
 }

@@ -1,0 +1,10 @@
+.wrap {
+  background: white;
+  border: 1px solid red;
+  width: 30%;
+  height: 100px;
+  transition: 3s;
+}
+.wrap:hover {
+  background: red;
+}

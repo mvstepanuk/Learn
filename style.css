@@ -5,6 +5,13 @@
   width: 30%;
   height: 100px;
   transition: 3s;
+  display: flex;
+}
+.flight {
+  color: black;
+  align-items: center;
+  justify-content: center;
+  width: auto;
 }
 .wrap:hover {
   width: 100%;
